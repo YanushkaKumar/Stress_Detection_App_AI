@@ -1,6 +1,4 @@
-Here’s a more attractive and polished version of your **Stress Analyzer** project README, with improved formatting, visuals, and style while preserving all your information:
 
----
 
 # 📱 Stress Analyzer
 
